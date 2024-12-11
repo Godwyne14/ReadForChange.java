@@ -28,39 +28,39 @@ ReadForChange is an executable program designed to raise environmental awareness
 **Partnerships for the Goals**  
 - ReadForChange fosters partnerships to achieve sustainability goals by connecting users with environmental organizations through its donation system. The platform collaborates with various partners to amplify the impact of its contributions, ensuring that funds are directed to projects addressing environmental challenges. By leveraging these partnerships, ReadForChange strengthens global efforts to achieve the SDGs and encourages collaboration between individuals, organizations, and governments in working towards a sustainable future.
 # IV. Instructions for Running the Program
-*Step 1:
+**Step 1:**
 - Install Java JDK: Download and install the JDK from here if not already installed.
 IDE or Text Editor: Use any editor (VSCode, IntelliJ, Notepad++) to write and compile the Java code.
 
-*Step 2:Creating File
+**Step 2:Creating File**
 - Create a File:
 - Open your text editor.
 - Create a new file named ReadForChange.java.
 - Copy and paste the code provided.
 
-*Step 3:Run the code
+**Step 3:Run the code**
 - Run the code you’ve copied
 
-*Step 4: User Sign Up / Login
+**Step 4: User Sign Up / Login**
 - Login: If you already have an account, choose the Login option and enter your username and password.
 - Sign Up: If you're a new user, choose the Sign Up option and create a new account. You can also choose if you want to sign up as a regular user or an admin.
 
-*Step 5: Explore the Dashboard
+**Step 5: Explore the Dashboard**
 - After logging in, you'll be directed to the Dashboard where you can:
 - Browse Articles: Select articles related to environmental causes.
 - View Donations: Check the total amount donated and your personal contribution.
 - If you're an Admin, you'll also have an option to view all donations made by other users.
 - Logout: If you're finished, you can log out.
 
-*Step 6: Read Articles & Donate
+**Step 6: Read Articles & Donate**
 - Select an article you wish to read. Each article is associated with a donation fee.
 - After reading the article, they automatically donate the associated fee to the cause discussed in the article.
 - The total amount donated will be automatically updated.
 
-*Step 7: View Donation Stats
+**Step 7: View Donation Stats**
 - In the Dashboard, you can view:
 - Total donations accumulated in the system.
 - Your individual donation contributions.
 
-*Step 8: Exit the Program
+**Step 8: Exit the Program**
 - Once you're done, select the Exit option to close the program.
